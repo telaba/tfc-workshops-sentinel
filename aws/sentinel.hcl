@@ -1,7 +1,7 @@
 policy "enforce-mandatory-tags" {
     enforcement_level = "hard-mandatory"
 }
-policy "aws-restrict-all-but-ssh.sentinel" {
+policy "aws-restrict-all-but-ssh" {
     enforcement_level = "hard-mandatory"
 }
 
